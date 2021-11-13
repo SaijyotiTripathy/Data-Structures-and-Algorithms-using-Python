@@ -10,3 +10,11 @@
 - Dictionary
    - Implementation 
 - Hash table
+- Searching
+  - In arrays
+  - In lists
+  - Performance comparision
+- Sorting
+  - In arrays
+  - In lists
+  - Performance comparision
