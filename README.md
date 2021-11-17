@@ -7,7 +7,7 @@
 - Classes and Objects
 - Timing our code
 
-## <a href="https://github.com/SaijyotiTripathy/Data-Structures-and-Algorithms-using-Python/blob/main/week2/README.md"> WEEK 2 </a>
+## <a href="https://github.com/SaijyotiTripathy/Data-Structures-and-Algorithms-using-Python/blob/main/week2/week2_dsa.ipynb"> WEEK 2 </a>
 
 - Searching in list
    - Sequential Search
